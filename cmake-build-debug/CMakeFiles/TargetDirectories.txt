@@ -1,0 +1,3 @@
+/home/emir/RiverProblem/cmake-build-debug/CMakeFiles/RiverProblem.dir
+/home/emir/RiverProblem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/emir/RiverProblem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
