@@ -4,7 +4,7 @@ This is first version of my solution to River problem that needs to be solved wi
 
 
 
-Final solution; \n
+Final solution; 
 -Most duplicate problems are solved.
 -Added id like bot counter for print statements inside hacker or microsoft functions to see which person was waiting fow which boat.
 -Added total of how many boats has sailed.
